@@ -7,5 +7,5 @@
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endygamedev&layout=compact" alt="endygamedev"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=endygamedev&show_icons=true" alt="endygamedev"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=endygamedev&show_icons=true" alt="endygamedev"/>
 </p>
