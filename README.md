@@ -14,3 +14,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=endygamedev&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="endygamedev"/>
   <img src="https://github-readme-stats.vercel.app/api?username=endygamedev&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="endygamedev" width=420/>
 </p>
+
+<br> <br>
+<p align="center">
+  | 👨‍💻 endygamdev <sub> / 2019-2021 </sub> |
+</p>
