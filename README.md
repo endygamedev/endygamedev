@@ -6,8 +6,9 @@
   <code><a href="https://gist.github.com/endygamedev" title="GitHub Gist"><img width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"> Gist </a></code>
 </h5>
 
+
 <h2> >> <img src="gifs/light_bulb.gif" width="30"> Технологии_ </h2>
-<table style="border:1px solid black;margin-left:auto;margin-right:auto;">
+<table>
    <tr>
      <td> <h6 align="center"> Языки программирования </h6> </td>
      <td> <h6 align="center"> Фреймворки </h6> </td>
@@ -72,6 +73,7 @@
     </td>
   </tr>
 </table>
+
 
 <h2> >> <img src="gifs/check_mark_button.gif" width="32"> Статистика GitHub_ </h2>
 <p align="center">
