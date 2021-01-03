@@ -7,15 +7,14 @@
 </h5>
 
 <h2> >> <img src="gifs/light_bulb.gif" width="30"> Технологии_ </h2>
-
-<table>
+<table style="border:1px solid black;margin-left:auto;margin-right:auto;">
    <tr>
      <td> <h6 align="center"> Языки программирования </h6> </td>
      <td> <h6 align="center"> Фреймворки </h6> </td>
    </tr>
     <tr>
      <td>
-       <p align="left">
+       <p align="center">
           <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png">
           <img height="40" src="https://lh3.googleusercontent.com/proxy/yTlPM-BwjiKMmsxVXTqtD9UmxC1uXUOYeaF1FDMOVZD8L7GFqt_aOAZRcv6bYv8DM9h_U-2H1hKZYottIt89H8uWtbY1nAsacVAxwf6vZQ1woyfAG4Nr" hspace="5">
           <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
@@ -25,7 +24,7 @@
        </p>
     </td>
     <td>
-      <p align="left">
+      <p align="center">
         <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png">
         <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" hspace="5">
         <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jekyll/jekyll.png">
@@ -72,7 +71,6 @@
     </td>
   </tr>
 </table>
-
 
 <h2> >> <img src="gifs/check_mark_button.gif" width="32"> Статистика GitHub_ </h2>
 <p align="center">
