@@ -1,12 +1,15 @@
 <h1 align="center"> > <img src="gifs/alien.gif" width="38"> Привет, меня зовут Егор_ </h1>
 
 <h5 align="center">
-  <code><a href=https://t.me/endygamedev" title="Telegram"><img width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"> Telegram </a></code>
-  <code><a href=https://endygamedev.github.io" title="Website" hspace="10"><img width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png"> Website </a></code>
-  <code><a href=https://gist.github.com/endygamedev" title="GitHub Gist" hspace="10"><img width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"> Gist </a></code>
+  <code><a href=https://t.me/endygamedev" title="Telegram" target="_blank"><img width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"> Telegram </a></code>
+  <code><a href="https://endygamedev.github.io" title="Website" target="_blank"><img width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png"> Website </a></code>
+  <code><a href="https://gist.github.com/endygamedev" title="GitHub Gist" target="_blank"><img width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"> Gist </a></code>
 </h5>
 
 <h2> >> <img src="gifs/light_bulb.gif" width="30"> Технологии_ </h2>
+
+<h6 align="center"> Языки программирования </h6>
+
 <p align="center">
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png">
   <img height="40" src="https://lh3.googleusercontent.com/proxy/yTlPM-BwjiKMmsxVXTqtD9UmxC1uXUOYeaF1FDMOVZD8L7GFqt_aOAZRcv6bYv8DM9h_U-2H1hKZYottIt89H8uWtbY1nAsacVAxwf6vZQ1woyfAG4Nr" hspace=10">
@@ -16,11 +19,15 @@
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" hspace="10">
 </p>
 
+<h6 align="center"> Окружение </h6>
+
 <p align="center">
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" hspace="10">
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 </p>
+
+<h6 align="center"> Вёрстка </h6>
 
 <p align="center">
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" hspace="10">
