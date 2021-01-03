@@ -1,4 +1,4 @@
-<h1 align="center"> > <img src="wave.gif" width="35"> Привет, меня зовут Егор_ </h1>
+<h1 align="center"> > <img src="gifs/alien.gif" width="35"> Привет, меня зовут Егор_ </h1>
 
 - 📭 [**`Связаться со мной`**](https://t.me/endygamedev)
 - 🌐 [**`Сайт`**](https://endygamedev.github.io)
@@ -14,6 +14,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=endygamedev&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="endygamedev"/>
   <img src="https://github-readme-stats.vercel.app/api?username=endygamedev&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="endygamedev" width=420/>
 </p>
+
+<h3> >>> 📈 Let's get this party_ </h3>
+<br>
+<br>
+<p align="center">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" alt="endygamedev" width=100/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=216ndgqqr2hlj3be4gf3rjzoa&cover_image=true&theme=novatorem" alt="endygamedev"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/reverseparrot.gif" alt="endygamedev" width=100/>
+</p>
+
 
 <br> <br>
 <p align="center">
