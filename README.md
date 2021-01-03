@@ -8,7 +8,7 @@
 
 <h2> >> <img src="gifs/light_bulb.gif" width="30"> Технологии_ </h2>
 
-  <table>
+<table>
    <tr>
      <td> <h6 align="center"> Языки программирования </h6> </td>
      <td> <h6 align="center"> Фреймворки </h6> </td>
@@ -34,31 +34,44 @@
     </td>
   </tr>
   <tr>
-     <td colspan="2"> <h6 align="center"> Вёрстка </h6> </td>
+     <td> <h6 align="center"> Вёрстка </h6> </td>
+     <td> <h6 align="center"> Базы данных </h6> </td>
   </tr>
   <tr>
-    <p align="center">
-      <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png">
-      <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" hspace="5">
-      <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-      <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-    </p>
+    <td>
+      <p align="center">
+        <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png">
+        <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" hspace="5">
+        <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+        <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" hspace="5">
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+        <img height="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" hspace="5">
+        <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/256px-Sqlite-square-icon.svg.png">
+        <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+      </p>
+    </td>
   </tr>
   <tr>
      <td colspan="2"> <h6 align="center"> Окружение </h6> </td>
   </tr>
   <tr>
-    <p align="center">
-      <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
-      <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" hspace="5">
-      <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-      <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" hspace="5">
-      <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/512px-PyCharm_Logo.svg.png">
-      <img height="40" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png" hspace="5">
-      <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png">
-      <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" hspace="5">
-      <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/512px-Android_Studio_icon.svg.png">
-    </p>
+    <td colspan="2">
+      <p align="center">
+        <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
+        <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" hspace="5">
+        <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+        <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" hspace="5">
+        <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/512px-PyCharm_Logo.svg.png">
+        <img height="40" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png" hspace="5">
+        <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png">
+        <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" hspace="5">
+        <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/512px-Android_Studio_icon.svg.png">
+      </p>
+    </td>
   </tr>
 </table>
 
