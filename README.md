@@ -48,10 +48,8 @@
     </td>
     <td>
       <p align="center">
-        <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
         <img height="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" hspace="5">
         <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/256px-Sqlite-square-icon.svg.png">
-        <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
       </p>
     </td>
   </tr>
@@ -74,6 +72,7 @@
     </td>
   </tr>
 </table>
+
 
 <h2> >> <img src="gifs/check_mark_button.gif" width="32"> Статистика GitHub_ </h2>
 <p align="center">
