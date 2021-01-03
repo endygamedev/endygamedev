@@ -88,7 +88,7 @@
 <br> <br>
 <p align="center">
   <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" alt="endygamedev" width=80/>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=216ndgqqr2hlj3be4gf3rjzoa&cover_image=true&theme=novatorem" alt="endygamedev"/>
+  <a href="https://open.spotify.com/user/216ndgqqr2hlj3be4gf3rjzoa?si=dCOGGuzIR4-WEgW3lhk0CQ"><img src="https://spotify-github-profile.vercel.app/api/view?uid=216ndgqqr2hlj3be4gf3rjzoa&cover_image=true&theme=novatorem" alt="endygamedev"/></a>
   <img src="https://cultofthepartyparrot.com/parrots/hd/reverseparrot.gif" alt="endygamedev" width=80/>
 </p>
 
