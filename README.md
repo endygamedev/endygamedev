@@ -1,7 +1,7 @@
 <h1 align="center"> > <img src="gifs/alien.gif" width="38"> Привет, меня зовут Егор_ </h1>
 
 <h5 align="center">
-  <code><a href=https://t.me/endygamedev" title="Telegram"><img width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" hspace="5"> Telegram </a></code>
+  <code><a href=https://t.me/endygamedev" title="Telegram"><img width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"> Telegram</a></code>
   <code><a href="https://endygamedev.github.io" title="Website"><img width="22" src="https://cdn.iconscout.com/icon/free/png-512/web-solution-830602.png"> Website</a></code>
   <code><a href="https://gist.github.com/endygamedev" title="GitHub Gist"><img width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"> Gist </a></code>
 </h5>
