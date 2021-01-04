@@ -19,7 +19,7 @@
      <td>
        <p align="center">
           <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png">
-          <img height="40" src="https://lh3.googleusercontent.com/proxy/yTlPM-BwjiKMmsxVXTqtD9UmxC1uXUOYeaF1FDMOVZD8L7GFqt_aOAZRcv6bYv8DM9h_U-2H1hKZYottIt89H8uWtbY1nAsacVAxwf6vZQ1woyfAG4Nr" hspace="5">
+          <img height="40" src="https://www.wolfram.com/common/framework/img/spikey.ru.png" hspace="5">
           <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
           <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" hspace="5">
           <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">  
