@@ -1,14 +1,14 @@
 <h1 align="center"> > <img src="gifs/alien.gif" width="38"> Привет, меня зовут Егор_ </h1>
 
 <h5 align="center">
-  <code><a href="https://t.me/endygamedev" title="Telegram"><img width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"> Telegram</a></code>
-  <code><a href="https://endygamedev.github.io" title="Website"><img width="22" src="https://cdn.iconscout.com/icon/free/png-512/web-solution-830602.png"> Website</a></code>
-  <code><a href="https://gist.github.com/endygamedev" title="GitHub Gist"><img width="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"> Gist </a></code>
+  <a href="https://t.me/endygamedev"><img src="https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://endygamedev.github.io"><img src="https://img.shields.io/badge/Website-%23eb7100?style=flat-square&logo=pinboard&logoColor=white" alt="Website"></a>
+  <a href="https://gist.github.com/endygamedev"><img src="https://img.shields.io/badge/Gist-%23181717?style=flat-square&logo=github&logoColor=white" alt="Website"></a>
+  <a href="https://open.spotify.com/user/216ndgqqr2hlj3be4gf3rjzoa?si=dCOGGuzIR4-WEgW3lhk0CQ"><img src="https://img.shields.io/badge/Spotify-%231ED760?style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 </h5>
 
 
 <h2> >> <img src="gifs/light_bulb.gif" width="30"> Технологии_ </h2>
-
 
 <table width="200%">
    <tr>
