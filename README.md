@@ -95,5 +95,5 @@
 
 <br> <br>
 <p align="center">
-  | <a href="https://endygamedev.github.io"> 👨‍💻 endygamdev </a> <sub> / 2019-2021 </sub> |
+  | <a href="https://endygamedev.github.io"> 👨‍💻 endygamedev </a> <sub> / 2019-2021 </sub> |
 </p>
