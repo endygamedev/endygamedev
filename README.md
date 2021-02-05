@@ -7,7 +7,6 @@
   <a href="https://open.spotify.com/user/216ndgqqr2hlj3be4gf3rjzoa?si=dCOGGuzIR4-WEgW3lhk0CQ"><img src="https://img.shields.io/badge/Spotify-%231ED760?style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 </h5>
 
-
 <h2> >> <img src="gifs/light_bulb.gif" width="30"> Технологии_ </h2>
 
 <table width="200%">
@@ -81,6 +80,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=endygamedev&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&langs_count=6" alt="endygamedev"/>
   <img src="https://github-readme-stats.vercel.app/api?username=endygamedev&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="endygamedev" width=420/>
+</p>
+
+<p align="center">
+  <img src="https://www.codewars.com/users/endygamedev/badges/small">
 </p>
 
 
