@@ -69,7 +69,7 @@
         <img height="40" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png">
         <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" hspace="5">
         <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
-        <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Android_Studio_Icon_2020.svg/800px-Android_Studio_Icon_2020.svg.png" hspace="5">
+        <img height="40" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" hspace="5">
         <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png">
       </p>
     </td>
