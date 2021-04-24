@@ -49,7 +49,7 @@
     </td>
     <td>
       <p align="center">
-        <img height="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" hspace="5">
+        <img height="40" src="https://commons.bmstu.wiki/images/a/a2/Microsofttt.png" hspace="5">
         <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/256px-Sqlite-square-icon.svg.png">
       </p>
     </td>
