@@ -1,4 +1,4 @@
-<h1 align="center"> > <img src="gifs/alien.gif" width="38"> Привет, меня зовут Егор_ </h1>
+<h3 align="center"> > <img src="assets/alien.gif" width="30"> Yo there! My name is Egor_ </h3>
 
 <h5 align="center">
   <a href="https://t.me/endygamedev"><img src="https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
@@ -7,12 +7,26 @@
   <a href="https://open.spotify.com/user/216ndgqqr2hlj3be4gf3rjzoa?si=dCOGGuzIR4-WEgW3lhk0CQ"><img src="https://img.shields.io/badge/Spotify-%231ED760?style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 </h5>
 
-<h2> >> <img src="gifs/light_bulb.gif" width="30"> Технологии_ </h2>
+<p>
+  <sub>
+    <i>Study at <a href="https://unecon.ru/">Saint-Petersburg State University of Economics</a> on `Applied mathematics and computer science`</i>
+  </sub>
+</p>
 
+
+<p align="right">
+  <sub>
+    <i>tryin' to do something funny</i>
+  </sub>
+</p>
+  
+<details>
+<summary><b> >> <img src="assets/light_bulb.gif" width="20">technology stack_</b></summary>
+<br>
 <table width="200%">
    <tr>
-     <td> <h6 align="center"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; Языки программирования &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </h6>  </td>
-     <td> <h6 align="center"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; Фреймворки &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  </h6> </td>
+     <td> <h6 align="center"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; programming laguages &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </h6>  </td>
+     <td> <h6 align="center"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; frameworks &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  </h6> </td>
    </tr>
     <tr>
      <td>
@@ -23,6 +37,7 @@
           <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" hspace="5">
           <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">  
           <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" hspace="5">
+          <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">
        </p>
     </td>
     <td>
@@ -35,8 +50,8 @@
     </td>
   </tr>
   <tr>
-     <td> <h6 align="center"> Вёрстка </h6> </td>
-     <td> <h6 align="center"> Базы данных </h6> </td>
+     <td> <h6 align="center"> layout </h6> </td>
+     <td> <h6 align="center"> databases </h6> </td>
   </tr>
   <tr>
     <td>
@@ -55,7 +70,7 @@
     </td>
   </tr>
   <tr>
-     <td colspan="2"> <h6 align="center"> Окружение </h6> </td>
+     <td colspan="2"> <h6 align="center"> environments </h6> </td>
   </tr>
   <tr>
     <td colspan="2">
@@ -75,9 +90,10 @@
     </td>
   </tr>
 </table>
+</details>
 
-
-<h2> >> <img src="gifs/check_mark_button.gif" width="32"> Статистика GitHub_ </h2>
+<details>
+<summary><b>>> <img src="assets/check_mark_button.gif" width="20"> statistics_</b></summary>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=endygamedev&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&langs_count=6" alt="endygamedev"/>
   <img src="https://github-readme-stats.vercel.app/api?username=endygamedev&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="endygamedev" width=420/>
@@ -86,18 +102,17 @@
 <p align="center">
   <img src="https://www.codewars.com/users/endygamedev/badges/small">
 </p>
+</details>
+  
 
-
-<h3> >>> <img src="gifs/musical_notes.gif" width="32"> Let's get this party_ </h3>
+<b> >>> <img src="assets/musical_notes.gif" width="20"> let's get this party_ </b>
 <br> <br>
 <p align="center">
-  <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" alt="endygamedev" width=80/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" alt="endygamedev" width=50/>
   <a href="https://open.spotify.com/user/216ndgqqr2hlj3be4gf3rjzoa?si=dCOGGuzIR4-WEgW3lhk0CQ"><img src="https://spotify-github-profile.vercel.app/api/view?uid=216ndgqqr2hlj3be4gf3rjzoa&cover_image=true&theme=novatorem" alt="endygamedev"/></a>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/reverseparrot.gif" alt="endygamedev" width=80/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/reverseparrot.gif" alt="endygamedev" width=50/>
 </p>
-
-
-<br> <br>
+<br><br>
 <p align="center">
-  | <a href="https://endygamedev.github.io"> 👨‍💻 endygamedev </a> <sub> / 2019-2021 </sub> |
+  <sub>| <a href="https://endygamedev.github.io"> 👨‍💻 endygamedev </a> <sub> / 2019-2021 </sub> |</sub>
 </p>
