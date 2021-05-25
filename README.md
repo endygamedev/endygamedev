@@ -31,21 +31,21 @@
     <tr>
      <td>
        <p align="center">
-          <img height="40" src="assets/stack/bash.png" hspace="2">
-          <img height="40" src="assets/stack/wolfram.svg" hspace="2">
-          <img height="35" src="assets/stack/python.png" hspace="2">
-          <img height="40" src="assets/stack/rust.png" hspace="2">
-          <img height="40" src="assets/stack/csharp.png" hspace="2">
-          <img height="35" src="assets/stack/java.png" hspace="2">
-          <img height="36" src="assets/stack/c.png" hspace="2">
+          <kbd><img height="40" src="assets/stack/bash.png" hspace="2"></kbd>
+          <kbd><img height="40" src="assets/stack/wolfram.svg" hspace="2"></kbd>
+          <kbd><img height="35" src="assets/stack/python.png" hspace="2"></kbd>
+          <kbd><img height="40" src="assets/stack/rust.png" hspace="2"></kbd>
+          <kbd><img height="40" src="assets/stack/csharp.png" hspace="2"></kbd>
+          <kbd><img height="35" src="assets/stack/java.png" hspace="2"></kbd>
+          <kbd><img height="36" src="assets/stack/c.png" hspace="2"></kbd>
        </p>
     </td>
     <td>
       <p align="center">
-        <img height="40" src="assets/stack/dotnet.png" hspace="2">
-        <img height="35" src="assets/stack/flask.png" hspace="2">
-        <img height="45" src="assets/stack/jekyll.png" hspace="2">
-        <img height="38" src="assets/stack/bootstrap.png" hspace="2">
+        <kbd><img height="40" src="assets/stack/dotnet.png" hspace="2"></kbd>
+        <kbd><img height="35" src="assets/stack/flask.png" hspace="2"></kbd>
+        <kbd><img height="45" src="assets/stack/jekyll.png" hspace="2"></kbd>
+        <kbd><img height="38" src="assets/stack/bootstrap.png" hspace="2"></kbd>
       </p>  
     </td>
   </tr>
@@ -56,16 +56,16 @@
   <tr>
     <td>
       <p align="center">
-        <img height="40" src="assets/stack/latex.svg" hspace="2">
-        <img width="40" src="assets/stack/markdown.png" hspace="2">
-        <img height="40" src="assets/stack/html.png" hspace="2">
-        <img height="40" src="assets/stack/css.png" hspace="2">    
+        <kbd><img height="40" src="assets/stack/latex.svg" hspace="2"></kbd>
+        <kbd><img width="40" src="assets/stack/markdown.png" hspace="2"></kbd>
+        <kbd><img height="40" src="assets/stack/html.png" hspace="2"></kbd>
+        <kbd><img height="40" src="assets/stack/css.png" hspace="2"></kbd>
       </p>
     </td>
     <td>
       <p align="center">
-        <img height="40" src="assets/stack/sqlserver.png" hspace="2">
-        <img height="40" src="assets/stack/sqlite.png" hspace="2"> 
+        <kbd><img height="40" src="assets/stack/sqlserver.png" hspace="2"></kbd>
+        <kbd><img height="40" src="assets/stack/sqlite.png" hspace="2"></kbd>
       </p>
     </td>
   </tr>
@@ -75,17 +75,17 @@
   <tr>
     <td colspan="2">
       <p align="center">
-        <img height="40" src="assets/stack/arch.png" hspace="2">
-        <img height="40" src="assets/stack/ubuntu.png" hspace="2">
-        <img height="40" src="assets/stack/git.png" hspace="2">
-        <img height="40" src="assets/stack/vim.png" hspace="2">
-        <img height="40" src="assets/stack/pycharm.png" hspace="2">
-        <img height="45" src="assets/stack/idea.png" hspace="2">
-        <img height="40" src="assets/stack/vscode.png" hspace="2">
-        <img height="40" src="assets/stack/visualstudio.png" hspace="2">
-        <img height="40" src="assets/stack/jupyter.png" hspace="2">
-        <img height="40" src="assets/stack/androidstudio.png" hspace="2">
-        <img height="30" src="assets/stack/unity.png" hspace="2">
+        <kbd><img height="40" src="assets/stack/arch.png" hspace="2"></kbd>
+        <kbd><img height="40" src="assets/stack/ubuntu.png" hspace="2"></kbd>
+        <kbd><img height="40" src="assets/stack/git.png" hspace="2"></kbd>
+        <kbd><img height="40" src="assets/stack/vim.png" hspace="2"></kbd>
+        <kbd><img height="40" src="assets/stack/pycharm.png" hspace="2"></kbd>
+        <kbd><img height="45" src="assets/stack/idea.png" hspace="2"></kbd>
+        <kbd><img height="40" src="assets/stack/vscode.png" hspace="2"></kbd>
+        <kbd><img height="40" src="assets/stack/visualstudio.png" hspace="2"></kbd>
+        <kbd><img height="40" src="assets/stack/jupyter.png" hspace="2"></kbd>
+        <kbd><img height="40" src="assets/stack/androidstudio.png" hspace="2"></kbd>
+        <kbd><img height="30" src="assets/stack/unity.png" hspace="2"></kbd>
       </p>
     </td>
   </tr>
