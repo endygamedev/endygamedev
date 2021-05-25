@@ -1,8 +1,8 @@
 <h3 align="center"> > <img src="assets/alien.gif" width="30"> Yo there! My name is Egor_ </h3>
 
 <h5 align="center">
-  <a href="https://t.me/endygamedev"><img src="https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://endygamedev.github.io"><img src="https://img.shields.io/badge/Website-%23eb7100?style=flat-square&logo=pinboard&logoColor=white" alt="Website"></a>
+  <a href="https://t.me/endygamedev"><img src="assets/header/telegram.png" alt="Telegram" width="20" hspace="6"></a>
+  <a href="https://endygamedev.github.io"><img src="assets/header/website.png" alt="Website" width="20"></a>
   <a href="https://gist.github.com/endygamedev"><img src="https://img.shields.io/badge/Gist-%23181717?style=flat-square&logo=github&logoColor=white" alt="Website"></a>
   <a href="https://open.spotify.com/user/216ndgqqr2hlj3be4gf3rjzoa?si=dCOGGuzIR4-WEgW3lhk0CQ"><img src="https://img.shields.io/badge/Spotify-%231ED760?style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 </h5>
