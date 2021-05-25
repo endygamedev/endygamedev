@@ -1,22 +1,22 @@
 <h3 align="center"> > <img src="assets/alien.gif" width="30"> Yo there! My name is Egor_ </h3>
 
 <h5 align="center">
-  <a href="https://t.me/endygamedev"><img src="assets/header/telegram.png" alt="Telegram" width="20" hspace="6"></a>
-  <a href="https://endygamedev.github.io"><img src="assets/header/website.png" alt="Website" width="20"></a>
-  <a href="https://gist.github.com/endygamedev"><img src="https://img.shields.io/badge/Gist-%23181717?style=flat-square&logo=github&logoColor=white" alt="Website"></a>
-  <a href="https://open.spotify.com/user/216ndgqqr2hlj3be4gf3rjzoa?si=dCOGGuzIR4-WEgW3lhk0CQ"><img src="https://img.shields.io/badge/Spotify-%231ED760?style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+  <a href="https://t.me/endygamedev"><img src="assets/header/telegram.png" alt="Telegram" width="21" hspace="3"></a>
+  <a href="https://endygamedev.github.io"><img src="assets/header/web.png" alt="Website" width="22" hspace="2"></a>
+  <a href="https://gist.github.com/endygamedev"><img src="assets/header/github.png" alt="Gist" width="22" hspace="2"></a>
+  <a href="https://open.spotify.com/user/216ndgqqr2hlj3be4gf3rjzoa?si=dCOGGuzIR4-WEgW3lhk0CQ"><img src="assets/header/spotify.png" alt="Spotify" width="22" hspace="2"></a>
 </h5>
 
 <p>
   <sub>
-    <i>Study at <a href="https://unecon.ru/">Saint-Petersburg State University of Economics</a> on `Applied mathematics and computer science`</i>
+    <kbd><i>Study at <a href="https://unecon.ru/">Saint-Petersburg State University of Economics</a> on `Applied mathematics and computer science`</i></kbd>
   </sub>
 </p>
 
 
 <p align="right">
   <sub>
-    <i>tryin' to do something funny</i>
+    <kbd><i>tryin' to do something funny</i></kbd>
   </sub>
 </p>
   
