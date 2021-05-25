@@ -9,14 +9,14 @@
 
 <p>
   <sub>
-    <kbd><i>Study at <a href="https://unecon.ru/">Saint-Petersburg State University of Economics</a> on `Applied mathematics and computer science`</i></kbd>
+    <kbd>:cloud: <i>Study at <a href="https://unecon.ru/">Saint-Petersburg State University of Economics</a> on `Applied mathematics and computer science`</i></kbd>
   </sub>
 </p>
 
 
 <p align="right">
   <sub>
-    <kbd><i>tryin' to do something funny</i></kbd>
+    <kbd>:cloud:<i> tryin' to do something funny</i></kbd>
   </sub>
 </p>
   
