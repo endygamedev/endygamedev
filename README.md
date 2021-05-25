@@ -1,22 +1,22 @@
 <h3 align="center"> > <img src="assets/alien.gif" width="30"> Yo there! My name is Egor_ </h3>
 
 <h5 align="center">
-  <a href="https://t.me/endygamedev"><img src="assets/header/telegram.png" alt="Telegram" width="20" hspace="6"></a>
-  <a href="https://endygamedev.github.io"><img src="assets/header/website.png" alt="Website" width="20"></a>
-  <a href="https://gist.github.com/endygamedev"><img src="https://img.shields.io/badge/Gist-%23181717?style=flat-square&logo=github&logoColor=white" alt="Website"></a>
-  <a href="https://open.spotify.com/user/216ndgqqr2hlj3be4gf3rjzoa?si=dCOGGuzIR4-WEgW3lhk0CQ"><img src="https://img.shields.io/badge/Spotify-%231ED760?style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+  <a href="https://t.me/endygamedev"><img src="assets/header/telegram.png" alt="Telegram" width="21" hspace="3"></a>
+  <a href="https://endygamedev.github.io"><img src="assets/header/web.png" alt="Website" width="22" hspace="2"></a>
+  <a href="https://gist.github.com/endygamedev"><img src="assets/header/github.png" alt="Gist" width="22" hspace="2"></a>
+  <a href="https://open.spotify.com/user/216ndgqqr2hlj3be4gf3rjzoa?si=dCOGGuzIR4-WEgW3lhk0CQ"><img src="assets/header/spotify.png" alt="Spotify" width="22" hspace="2"></a>
 </h5>
 
 <p>
   <sub>
-    <i>Study at <a href="https://unecon.ru/">Saint-Petersburg State University of Economics</a> on `Applied mathematics and computer science`</i>
+    <kbd><i>Study at <a href="https://unecon.ru/">Saint-Petersburg State University of Economics</a> on `Applied mathematics and computer science`</i></kbd>
   </sub>
 </p>
 
 
 <p align="right">
   <sub>
-    <i>tryin' to do something funny</i>
+    <kbd><i>tryin' to do something funny</i></kbd>
   </sub>
 </p>
   
@@ -31,21 +31,21 @@
     <tr>
      <td>
        <p align="center">
-          <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png">
-          <img height="40" src="https://www.wolfram.com/common/framework/img/spikey.ru.png" hspace="5">
-          <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-          <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" hspace="5">
-          <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">  
-          <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" hspace="5">
-          <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">
+          <img height="40" src="assets/stack/bash.png" hspace="2">
+          <img height="40" src="assets/stack/wolfram.svg" hspace="2">
+          <img height="35" src="assets/stack/python.png" hspace="2">
+          <img height="40" src="assets/stack/rust.png" hspace="2">
+          <img height="40" src="assets/stack/csharp.png" hspace="2">
+          <img height="35" src="assets/stack/java.png" hspace="2">
+          <img height="36" src="assets/stack/c.png" hspace="2">
        </p>
     </td>
     <td>
       <p align="center">
-        <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png">
-        <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" hspace="5">
-        <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jekyll/jekyll.png">
-        <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" hspace="5">
+        <img height="40" src="assets/stack/dotnet.png" hspace="2">
+        <img height="35" src="assets/stack/flask.png" hspace="2">
+        <img height="45" src="assets/stack/jekyll.png" hspace="2">
+        <img height="38" src="assets/stack/bootstrap.png" hspace="2">
       </p>  
     </td>
   </tr>
@@ -56,16 +56,16 @@
   <tr>
     <td>
       <p align="center">
-        <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png">
-        <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" hspace="5">
-        <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-        <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" hspace="5">
+        <img height="40" src="assets/stack/latex.svg" hspace="2">
+        <img width="40" src="assets/stack/markdown.png" hspace="2">
+        <img height="40" src="assets/stack/html.png" hspace="2">
+        <img height="40" src="assets/stack/css.png" hspace="2">    
       </p>
     </td>
     <td>
       <p align="center">
-        <img height="40" src="https://commons.bmstu.wiki/images/a/a2/Microsofttt.png" hspace="5">
-        <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/256px-Sqlite-square-icon.svg.png">
+        <img height="40" src="assets/stack/sqlserver.png" hspace="2">
+        <img height="40" src="assets/stack/sqlite.png" hspace="2"> 
       </p>
     </td>
   </tr>
@@ -75,17 +75,17 @@
   <tr>
     <td colspan="2">
       <p align="center">
-        <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
-        <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" hspace="5">
-        <img height="40" src="https://raw.githubusercontent.com/github/explore/7b8474be525e3f210d3c8d60a32beca4bfc2895b/topics/archlinux/archlinux.png">
-        <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"  hspace="5">
-        <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png">
-        <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" hspace="5">
-        <img height="40" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png">
-        <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" hspace="5">
-        <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
-        <img height="40" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" hspace="5">
-        <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png">
+        <img height="40" src="assets/stack/arch.png" hspace="2">
+        <img height="40" src="assets/stack/ubuntu.png" hspace="2">
+        <img height="40" src="assets/stack/git.png" hspace="2">
+        <img height="40" src="assets/stack/vim.png" hspace="2">
+        <img height="40" src="assets/stack/pycharm.png" hspace="2">
+        <img height="45" src="assets/stack/idea.png" hspace="2">
+        <img height="40" src="assets/stack/vscode.png" hspace="2">
+        <img height="40" src="assets/stack/visualstudio.png" hspace="2">
+        <img height="40" src="assets/stack/jupyter.png" hspace="2">
+        <img height="40" src="assets/stack/androidstudio.png" hspace="2">
+        <img height="30" src="assets/stack/unity.png" hspace="2">
       </p>
     </td>
   </tr>
@@ -94,6 +94,7 @@
 
 <details>
 <summary><b>>> <img src="assets/check_mark_button.gif" width="20"> statistics_</b></summary>
+<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=endygamedev&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&langs_count=6" alt="endygamedev"/>
   <img src="https://github-readme-stats.vercel.app/api?username=endygamedev&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="endygamedev" width=420/>
