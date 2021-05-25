@@ -107,13 +107,13 @@
   
 <b> >>> <img src="assets/musical_notes.gif" width="20"> let's get this party_ </b>
 <br><br>
-<img src="assets/picture.gif" alt="image" align="right" width="350">
+<img src="assets/picture.gif" alt="image" align="left" width="300">
 <br><br><br>
-<p align="right">
-  <a href="https://open.spotify.com/user/216ndgqqr2hlj3be4gf3rjzoa?si=dCOGGuzIR4-WEgW3lhk0CQ"><img src="https://spotify-github-profile.vercel.app/api/view?uid=216ndgqqr2hlj3be4gf3rjzoa&cover_image=true&theme=novatorem" alt="Spotify"/></a>
+<p align="left">
+  <a href="https://open.spotify.com/user/216ndgqqr2hlj3be4gf3rjzoa?si=dCOGGuzIR4-WEgW3lhk0CQ"><img src="https://spotify-github-profile.vercel.app/api/view?uid=216ndgqqr2hlj3be4gf3rjzoa&cover_image=true&theme=novatorem" alt="Spotify" width="250"/></a>
 </p>
 
-<br><br><br><br><br>
+<br><br><br>
 <p align="center">
   <sub>| <a href="https://endygamedev.github.io"> 👨‍💻 endygamedev </a> <sub> / 2019-2021 </sub> |</sub>
 </p>
