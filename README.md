@@ -107,7 +107,7 @@
   
 <b> >>> <img src="assets/musical_notes.gif" width="20"> let's get this party_ </b>
 <br><br>
-<p align="center">
+<p align="right">
   <img src="assets/picture.gif" alt="image" align="left" width="300">
   <a href="https://open.spotify.com/user/216ndgqqr2hlj3be4gf3rjzoa?si=dCOGGuzIR4-WEgW3lhk0CQ"><img src="https://spotify-github-profile.vercel.app/api/view?uid=216ndgqqr2hlj3be4gf3rjzoa&cover_image=true&theme=default" alt="Spotify" width="200"/></a>
 </p>
