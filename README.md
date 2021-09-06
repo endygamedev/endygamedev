@@ -31,14 +31,14 @@
     <tr>
      <td>
        <p align="center">
-          <kbd><img height="40" src="assets/stack/bash.png" hspace="2"></kbd>
-          <kbd><img height="40" src="assets/stack/wolfram.svg" hspace="2"></kbd>
-          <kbd><img height="35" src="assets/stack/python.png" hspace="2"></kbd>
-          <kbd><img height="40" src="assets/stack/rust.png" hspace="2"></kbd>
-          <kbd><img height="40" src="assets/stack/csharp.png" hspace="2"></kbd>
-          <kbd><img height="35" src="assets/stack/java.png" hspace="2"></kbd>
-          <kbd><img height="36" src="assets/stack/c.png" hspace="2"></kbd>
-          <kbd><img height="24" src="assets/stack/haskell.webp" hspace="2"></kbd>
+          <kbd><img height="30" src="assets/stack/bash.png" hspace="2"></kbd>
+          <kbd><img height="30" src="assets/stack/wolfram.svg" hspace="2"></kbd>
+          <kbd><img height="30" src="assets/stack/python.png" hspace="2"></kbd>
+          <kbd><img height="30" src="assets/stack/rust.png" hspace="2"></kbd>
+          <kbd><img height="30" src="assets/stack/csharp.png" hspace="2"></kbd>
+          <kbd><img height="30" src="assets/stack/java.png" hspace="2"></kbd>
+          <kbd><img height="30" src="assets/stack/c.png" hspace="2"></kbd>
+          <kbd><img height="30" src="assets/stack/haskell.webp" hspace="2"></kbd>
        </p>
     </td>
     <td>
