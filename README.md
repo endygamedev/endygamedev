@@ -38,7 +38,7 @@
           <kbd><img height="40" src="assets/stack/csharp.png" hspace="2"></kbd>
           <kbd><img height="35" src="assets/stack/java.png" hspace="2"></kbd>
           <kbd><img height="36" src="assets/stack/c.png" hspace="2"></kbd>
-          <kbd><img height="30" src="assets/stack/haskell.webp" hspace="2"></kbd>
+          <kbd><img height="24" src="assets/stack/haskell.webp" hspace="2"></kbd>
        </p>
     </td>
     <td>
@@ -110,7 +110,7 @@
 <br><br>
 <p align="right">
   <img src="assets/picture.gif" alt="image" align="left" width="300">
-  <a href="https://open.spotify.com/user/216ndgqqr2hlj3be4gf3rjzoa?si=dCOGGuzIR4-WEgW3lhk0CQ"><img src="https://spotify-github-profile.vercel.app/api/view?uid=216ndgqqr2hlj3be4gf3rjzoa&cover_image=true&theme=natemoo-re" alt="Spotify" width="350"/></a>
+  <a href="https://open.spotify.com/user/216ndgqqr2hlj3be4gf3rjzoa?si=dCOGGuzIR4-WEgW3lhk0CQ"><img src="https://spotify-github-profile.vercel.app/api/view?uid=216ndgqqr2hlj3be4gf3rjzoa&cover_image=true&theme=natemoo-re" alt="Spotify" width="250"/></a>
 </p>
 
 <br><br><br><br><br><br>
