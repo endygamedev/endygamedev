@@ -2,7 +2,7 @@
 
 <p align="center">
   <kbd><a href="https://t.me/endygamedev"><img src="assets/header/telegram.png" alt="Telegram" width="21" hspace="3"></a></kbd> 
-  <kbd><a href="https://endygamedev.github.io"><img src="assets/header/web.png" alt="Website" width="22" hspace="2"></a></kbd>
+  <kbd><a href="http://bronnikov.space"><img src="assets/header/web.png" alt="Website" width="22" hspace="2"></a></kbd>
   <kbd><a href="https://gist.github.com/endygamedev"><img src="assets/header/github.png" alt="Gist" width="22" hspace="2"></a></kbd>
   <kbd><a href="https://open.spotify.com/user/216ndgqqr2hlj3be4gf3rjzoa?si=dCOGGuzIR4-WEgW3lhk0CQ"><img src="assets/header/spotify.png" alt="Spotify" width="22" hspace="2"></a></kbd>
 </p>
@@ -38,6 +38,7 @@
           <kbd><img height="40" src="assets/stack/csharp.png" hspace="2"></kbd>
           <kbd><img height="35" src="assets/stack/java.png" hspace="2"></kbd>
           <kbd><img height="36" src="assets/stack/c.png" hspace="2"></kbd>
+          <kbd><img height="30" src="assets/stack/haskell.webp" hspace="2"></kbd>
        </p>
     </td>
     <td>
@@ -109,10 +110,10 @@
 <br><br>
 <p align="right">
   <img src="assets/picture.gif" alt="image" align="left" width="300">
-  <a href="https://open.spotify.com/user/216ndgqqr2hlj3be4gf3rjzoa?si=dCOGGuzIR4-WEgW3lhk0CQ"><img src="https://spotify-github-profile.vercel.app/api/view?uid=216ndgqqr2hlj3be4gf3rjzoa&cover_image=true&theme=default" alt="Spotify" width="200"/></a>
+  <a href="https://open.spotify.com/user/216ndgqqr2hlj3be4gf3rjzoa?si=dCOGGuzIR4-WEgW3lhk0CQ"><img src="https://spotify-github-profile.vercel.app/api/view?uid=216ndgqqr2hlj3be4gf3rjzoa&cover_image=true&theme=natemoo-re" alt="Spotify" width="350"/></a>
 </p>
 
-<br><br><br>
+<br><br><br><br><br><br>
 <p align="center">
-  <sub>| <a href="https://endygamedev.github.io"> 👨‍💻 endygamedev </a> <sub> / 2019-2021 </sub> |</sub>
+  <sub>| <a href="http://bronnikov.space"> 👨‍💻 endygamedev </a> <sub> / 2019-2021 </sub> |</sub>
 </p>
