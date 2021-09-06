@@ -108,12 +108,13 @@
   
 <b> >>> <img src="assets/musical_notes.gif" width="20"> let's get this party_ </b>
 <br><br>
-<p align="right">
-  <img src="assets/picture.gif" alt="image" align="left" width="300">
-  <a href="https://open.spotify.com/user/216ndgqqr2hlj3be4gf3rjzoa?si=dCOGGuzIR4-WEgW3lhk0CQ"><img src="https://spotify-github-profile.vercel.app/api/view?uid=216ndgqqr2hlj3be4gf3rjzoa&cover_image=true&theme=natemoo-re" alt="Spotify" width="250"/></a>
+<p align="center">
+  <a href="https://open.spotify.com/user/216ndgqqr2hlj3be4gf3rjzoa?si=dCOGGuzIR4-WEgW3lhk0CQ"><img src="https://spotify-github-profile.vercel.app/api/view?uid=216ndgqqr2hlj3be4gf3rjzoa&cover_image=true&theme=natemoo-re" alt="Spotify" width="300"/></a>
+  <br>
+  <img src="assets/picture.gif" alt="image" align="center" width="300">
 </p>
 
-<br><br><br><br><br><br>
+<br><br><br>
 <p align="center">
   <sub>| <a href="http://bronnikov.space"> 👨‍💻 endygamedev </a> <sub> / 2019-2021 </sub> |</sub>
 </p>
