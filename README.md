@@ -2,7 +2,7 @@
 
 <p align="center">
   <kbd><a href="https://t.me/endygamedev"><img src="assets/header/telegram.png" alt="Telegram" width="21" hspace="3"></a></kbd> 
-  <kbd><a href="http://bronnikov.space"><img src="assets/header/web.png" alt="Website" width="22" hspace="2"></a></kbd>
+  <kbd><a href="https://endygamedev.github.io"><img src="assets/header/web.png" alt="Website" width="22" hspace="2"></a></kbd>
   <kbd><a href="https://gist.github.com/endygamedev"><img src="assets/header/github.png" alt="Gist" width="22" hspace="2"></a></kbd>
   <kbd><a href="https://open.spotify.com/user/216ndgqqr2hlj3be4gf3rjzoa?si=dCOGGuzIR4-WEgW3lhk0CQ"><img src="assets/header/spotify.png" alt="Spotify" width="22" hspace="2"></a></kbd>
 </p>
