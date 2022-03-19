@@ -6,7 +6,7 @@
 
 ---
 
-I'm a Linux enthusiast and currently 3<sup>rd</sup> year student of St. Petersburg State University of Economics. Since high school I have been developing various things. I tried myself in variant fields such as Web Development, Mobile Development, Game Development, Software Development and many others. I can work with different office packages, I know Python, C, Bash and other languages. I am interested in the development of projects with algorithmic overtones. I am also interested in low-level things. Knowledge in Linear algebra, Probability and Statistics, Numerical Methods, Optimization Methods, Algorithms and Data structures, Discrete Mathematics. I understand IPv4, IPv6 network protocols and some others.
+<p align="justify">I'm a Linux enthusiast and currently 3<sup>rd</sup> year student of St. Petersburg State University of Economics. Since high school I have been developing various things. I tried myself in variant fields such as Web Development, Mobile Development, Game Development, Software Development and many others. I can work with different office packages, I know Python, C, Bash and other languages. I am interested in the development of projects with algorithmic overtones. I am also interested in low-level things. Knowledge in Linear algebra, Probability and Statistics, Numerical Methods, Optimization Methods, Algorithms and Data structures, Discrete Mathematics. I understand IPv4, IPv6 network protocols and some others.</p>
 
 <p align="right"><sub>:heart: Thinking that Vim is the best IDE.</sub></p>
 <p align="right">~ <kbd><a href="https://projects.ebronnikov.xyz">www.projects.ebronnikov.xyz</a></kbd></p>
