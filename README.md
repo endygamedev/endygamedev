@@ -17,6 +17,7 @@
 - **Databases:** Microsoft SQL Server, SQLite, MySQL
 - **Web:** HTML, CSS, Bootstrap, Flask, Jekyll, Nginx
 - **Layout:** LaTeX, Markdown
+- **Tools:** Git, Make, Docker
 
 ### :newspaper: Some Blog Posts
 - [Build your own home server →](https://ebronnikov.xyz/jekyll/update/2021/11/19/build-server.html)
