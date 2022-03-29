@@ -25,4 +25,5 @@
 
 ### :sparkles: Certificates
 - [Certificate of completion of additional education →](https://ebronnikov.xyz/assets/certificate.pdf)
-- [«Functional programming in the Haskell Language» →]( https://stepik.org/cert/1062738)
+- [«Functional programming in the Haskell Language» →](https://stepik.org/cert/1062738)
+- [«Linux programming basics» →](https://stepik.org/cert/1454725)
