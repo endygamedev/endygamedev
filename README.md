@@ -6,7 +6,7 @@
 
 ---
 
-<p align="justify">I'm a Linux enthusiast and currently 3<sup>rd</sup> year student of St. Petersburg State University of Economics. Since high school I have been developing various things. I tried myself in variant fields such as Web Development, Mobile Development, Game Development, Software Development and many others. I can work with different office packages, I know Python, C, Bash and other languages. I am interested in the development of projects with algorithmic overtones. I am also interested in low-level things. Knowledge in Linear algebra, Probability and Statistics, Numerical Methods, Optimization Methods, Algorithms and Data structures, Discrete Mathematics. I understand IPv4, IPv6 network protocols and some others.</p>
+<p align="justify">I'm a Linux enthusiast and currently 4<sup>th</sup> year student of St. Petersburg State University of Economics. Since high school I have been developing various things. I tried myself in variant fields such as web development, mobile development, game development, software development and many others. I can work with different office packages. I know Python, C, Bash and other programming languages. I am interested in the development of projects with algorithmic overtones. I am also interested in low-level things. Knowledge in Linear algebra, Probability and Statistics, Numerical methods, Forecating methods, Game theory, Econometrics and Discrete mathematics. I understand OSI model, TCP/UDP, IPv4, IPv6 network protocols and some other networking things.</p>
 
 <p align="right"><sub>:heart: Thinking that Vim is the best IDE.</sub></p>
 <p align="right">~ <kbd><a href="https://projects.ebronnikov.xyz">www.projects.ebronnikov.xyz</a></kbd></p>
@@ -20,8 +20,9 @@
 - **Tools:** Git, Make, Docker
 
 ### :newspaper: Some Blog Posts
-- [Build your own home server →](https://ebronnikov.xyz/jekyll/update/2021/11/19/build-server.html)
-- [How monads work? →](https://ebronnikov.xyz/jekyll/update/2021/10/24/monads.html)
+- [Build your own home server →](https://ebronnikov.xyz/posts/build-server/)
+- [How monads work? →](https://ebronnikov.xyz/posts/monads/)
+- [Increasing / directory at the expense of the /home directory →](https://ebronnikov.xyz/posts/disk-size/)
 
 ### :sparkles: Certificates
 - [Certificate of completion of additional education →](https://ebronnikov.xyz/assets/certificate.pdf)
