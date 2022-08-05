@@ -12,12 +12,57 @@
 <p align="right">~ <kbd><a href="https://projects.ebronnikov.xyz">www.projects.ebronnikov.xyz</a></kbd></p>
 
 ### :computer: Skills
-- **Programming Lanuages:** Python, C, Bash, Wolfram Mathematica, Haskell, Rust, Java, C#
-- **Operating Systems:** Arch, Fedora, Ubuntu, Debian, Windows
-- **Databases:** Microsoft SQL Server, SQLite, MySQL
-- **Web:** HTML, CSS, Bootstrap, Flask, Jekyll, Nginx
-- **Layout:** LaTeX, Markdown
-- **Tools:** Git, Make, Docker
+#### Human Languages
+<table>
+    <tr>
+        <td class="bold">Russian</td>
+        <td>Native language</td>
+    </tr>
+    <tr>
+        <td class="bold">English</td>
+        <td>B2 (Upper Intermediate)</td>
+    </tr>
+    <tr>
+        <td class="bold">German</td>
+        <td>A2 (Elementary)</td>
+    </tr>
+</table>
+
+#### Programming and Markup Languages
+<table>
+    <tr>
+        <td><b>Backend</b></td>
+        <td>Python, C, Bash, PHP, Haskell, Rust, Java, C#</td>
+    </tr>
+    <tr>
+        <td><b>Frontend</b></td>
+        <td>Vanilla HTML/CSS/JS</td>
+    </tr>
+    <tr>
+        <td><b>Design</b></td>
+        <td>Bootstrap, Tailwind, Jekyll, Jinja</td>
+    </tr>
+    <tr>
+        <td><b>Data</b></td>
+        <td>Markdown, CSV, YAML and JSON</td>
+    </tr>
+    <tr>
+        <td><b>API Design</b></td>
+        <td>REST</td>
+    </tr>
+    <tr>
+        <td><b>Web Servers</b></td>
+        <td>Nginx</td>
+    </tr>
+    <tr>
+        <td><b>Databases</b></td>
+        <td>MySQL, SQLite, Microsoft SQL Server</td>
+    </tr>
+    <tr>
+        <td><b>Math</b></td>
+        <td>Wolfram Language, LaTeX</td>
+    </tr>
+</table>
 
 ### :newspaper: Some Blog Posts
 - [Build your own home server →](https://ebronnikov.xyz/posts/build-server/)
