@@ -32,7 +32,7 @@
 <table>
     <tr>
         <td><b>Backend</b></td>
-        <td>Python, C, Bash, PHP, Haskell, Rust, Java, C#</td>
+        <td>Python, C, C++, Bash, PHP, Haskell, Rust, Java, C#</td>
     </tr>
     <tr>
         <td><b>Frontend</b></td>
@@ -73,3 +73,4 @@
 - [Certificate of completion of additional education →](https://ebronnikov.xyz/assets/certificate.pdf)
 - [«Functional programming in the Haskell Language» →](https://stepik.org/cert/1062738)
 - [«Linux programming basics» →](https://stepik.org/cert/1454725)
+- [«C++ programming» →](https://stepik.org/cert/1614590)
