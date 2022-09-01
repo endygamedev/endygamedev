@@ -74,3 +74,4 @@
 - [«Functional programming in the Haskell Language» →](https://stepik.org/cert/1062738)
 - [«Linux programming basics» →](https://stepik.org/cert/1454725)
 - [«C++ programming» →](https://stepik.org/cert/1614590)
+- [«C++ programming (continued)» →](https://stepik.org/cert/1641058)
