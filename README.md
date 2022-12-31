@@ -1,6 +1,6 @@
 <h3 align="center">:wave: Yo there! I'm Egor Bronnikov</h3>
 <p align="center">
-  <kbd><a href="https://ebronnikov.xyz">www.ebronnikov.xyz</a></kbd> |
+  <kbd><a href="https://bronnikov.xyz">www.bronnikov.xyz</a></kbd> |
   <kbd><a href="https://t.me/endygamedev">t.me/endygamedev</a></kbd>
 </p>
 
