@@ -70,7 +70,7 @@
 - [Increasing / directory at the expense of the /home directory →](https://bronnikov.xyz/posts/disk-size/)
 
 ### :sparkles: Certificates
-- [Certificate of completion of additional education →](https://bronnikov.xyz/assets/certificate.pdf)
+- [Certificate of completion of additional education →](https://bronnikov.xyz/cv/certificate.pdf)
 - [«Functional programming in the Haskell Language» →](https://stepik.org/cert/1062738)
 - [«Linux programming basics» →](https://stepik.org/cert/1454725)
 - [«C++ programming» →](https://stepik.org/cert/1614590)
